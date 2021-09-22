@@ -6,10 +6,7 @@ Hello_World sample
 Practice using GitHub by creating a sample repository.
 # How to Run Program
 Hello_World/
-
-└── 
-
-    │── README.md
+└──│── README.md
 # Files Used
 No data files used at this time.
 # Additional Documentation
